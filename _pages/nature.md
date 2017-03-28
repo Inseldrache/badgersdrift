@@ -1,0 +1,18 @@
+---
+ID: 591
+post_title: Nature
+author: badger
+post_date: 2017-03-02 13:47:20
+post_excerpt: ""
+layout: page
+permalink: >
+  http://badgersdriftwp.azurewebsites.net/nature/
+published: true
+parallax-frame-layout-option:
+  - default
+parallax-frame-header-image:
+  - enable
+parallax-frame-featured-image:
+  - full
+---
+[gallery type="rectangular" ids="7441,7461,7471,7481,7491,7501,7511,7521,7531,7541,7551,7561,7571,7581,7591,7601,7611,7621,7631,7641,7651,7661,7671,7681,7691,7701,7711,7721,7731,7741,7751,7761,7771,7781,7791,7801,7811,7821,7831,7841,7851,7861,7871,7881,7891,7901,7911,7921,7931,7941,7951,7961,7962,7971,7981,7991,8001,8011,8021,8031,8041,8051,8061,8071,8081,8091,8101,8111,8121,8131,8141,8151,8161,8171,8181,8191,8201,8211,8221,8231"]
