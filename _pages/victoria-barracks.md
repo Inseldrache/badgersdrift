@@ -1,6 +1,6 @@
 ---
 ID: 19442
-post_title: Victoria Barracks
+post_title: Albuhera Barracks
 author: badger
 post_excerpt: ""
 layout: page
