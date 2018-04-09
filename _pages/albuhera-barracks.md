@@ -5,7 +5,7 @@ author: badger
 post_excerpt: ""
 layout: page
 permalink: >
-  http://badgersdriftwp.azurewebsites.net/victoria-barracks/
+  http://badgersdriftwp.azurewebsites.net/albuhera-barracks/
 published: true
 post_date: 2018-04-09 08:51:20
 ---
