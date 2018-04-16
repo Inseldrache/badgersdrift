@@ -5,7 +5,7 @@ author: badger
 post_excerpt: ""
 layout: page
 permalink: >
-  https://badgersdriftwp.azurewebsites.net/lost-places/military-training-military-training-area/
+  https://badgersdriftwp.azurewebsites.net/military-training-military-training-area/
 published: true
 post_date: 2018-04-16 12:07:05
 ---
