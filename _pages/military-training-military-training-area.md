@@ -1,6 +1,6 @@
 ---
 ID: 19588
-post_title: MILITARY TRAINING AREA
+post_title: Ex Military Training Area
 author: badger
 post_excerpt: ""
 layout: page
